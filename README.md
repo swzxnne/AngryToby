@@ -79,4 +79,4 @@ AngryToby/
 
 ## License
 
-No license specified. All rights reserved by the author unless a license is added.
+Released under the [MIT License](LICENSE).
