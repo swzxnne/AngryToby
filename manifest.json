@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Caps Lock Alert (TS)",
+  "version": "1.0",
+  "description": "Monitors text fields and slides out a pixel boss if you type 3 uppercase words.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["dist/content.js"],
+      "css": ["dist/styles.css"]
+    }
+  ]
+}

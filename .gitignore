@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output (shipped via GitHub Releases, not committed)
+dist/
+
+# macOS
+.DS_Store
+
+# Logs & misc
+*.log
+npm-debug.log*
+.env
+.env.*
