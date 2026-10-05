@@ -29,7 +29,7 @@ Requires [Node.js](https://nodejs.org/) (which includes `npm`).
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/AngryToby.git
+git clone https://github.com/swzxnne/AngryToby.git
 cd AngryToby
 
 # 2. Install dependencies
